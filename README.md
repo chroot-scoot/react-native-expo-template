@@ -25,6 +25,14 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
+## To customize colour schemes:
+
+Edit `tailwind.config.js`
+
+## To rename the project:
+
+Edit `app.json`, `package.json` and `package-lock.json`
+
 ## Get a fresh project
 
 When you're ready, run:
